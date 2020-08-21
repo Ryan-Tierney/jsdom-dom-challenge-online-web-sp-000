@@ -1,4 +1,4 @@
-var i =-1;
+var i = 0;
 var j = 0;
 var interval = setInterval( increment, 1000);
 function increment(){
